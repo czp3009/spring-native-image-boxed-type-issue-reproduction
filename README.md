@@ -1,5 +1,7 @@
 # spring native image boxed type issue reproduction
 
+issue: https://github.com/spring-projects/spring-framework/issues/33380
+
 steps:
 
 ```shell
