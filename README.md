@@ -2,6 +2,8 @@
 
 issue: https://github.com/spring-projects/spring-framework/issues/33380
 
+note: fixed
+
 steps:
 
 ```shell
